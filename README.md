@@ -1,4 +1,4 @@
-# [The Technical Blog That Builds Your Reputation](https://github.com/HugoBlox/hugo-theme-data-science-blog)
+# [The1 Technical Blog That Builds Your Reputation](https://github.com/HugoBlox/hugo-theme-data-science-blog)
 
 [![Screenshot](.github/preview.png)](https://hugoblox.com/templates/data-science-blog?utm_source=github&utm_medium=readme&utm_content=preview)
 
