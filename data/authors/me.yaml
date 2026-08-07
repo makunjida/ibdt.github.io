@@ -10,8 +10,7 @@ name:
 status:
   icon: "☕️"
 role: Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include natural language processing, data intensive computing, big data management, and stream data processing.
 affiliations:
   - name: University of Jinan
     url: https://www.ujn.edu.cn/
